@@ -1,0 +1,22 @@
+.heading{
+    font-style: initial;
+}
+
+.paragraph{
+    font-style: normal;
+    font-size: 20px;
+}
+
+.title{
+    background-color: black;
+    
+}
+#header{
+text-align: center;
+}
+
+div {
+    border: 1px solid black;
+    margin: 25px 50px;
+    background-color: rgb(207, 173, 195);
+  }
